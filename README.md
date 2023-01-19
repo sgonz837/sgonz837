@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <h1>Sayan Gonzalez</h1>
+
+<img src = "https://tenor.com/view/anime-waifu-dance-gif-25689550" />
 <!--
 **sgonz837/sgonz837** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
