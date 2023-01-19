@@ -1,8 +1,7 @@
-### Hi there 👋
-
+<img src="http://i.stack.imgur.com/SBv4T.gif" alt="this slowpoke moves"  width="250" />
 <h1>Sayan Gonzalez</h1>
 
-<img src="http://i.stack.imgur.com/SBv4T.gif" alt="this slowpoke moves"  width="250" />
+
 <!--
 **sgonz837/sgonz837** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
